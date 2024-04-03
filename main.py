@@ -3,6 +3,8 @@
 def add(num1, num2):
     print(num1 + num2)
 
+def modulo(input1, input2):
+    print(input1, input2)
 
 def main():
     print("Enter the operation you want to perform: ")
