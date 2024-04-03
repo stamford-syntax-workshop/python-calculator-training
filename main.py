@@ -2,11 +2,14 @@
 def multiply(input1, input2):
     print(input1 * input2)
 
+def subtract(input1, input2):
+    print(input1 - input2) 
+
 def add(num1, num2):
     print(num1 + num2)
 
 def modulo(input1, input2):
-    print(input1, input2) //BANANA
+    print(input1, input2) //BANANA love Monkey
 
 def divide(input1, input2):
     print(input1 / input2)
