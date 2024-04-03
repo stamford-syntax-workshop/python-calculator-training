@@ -1,5 +1,8 @@
 # Add your functions here!
+# MR.BANANA IS HERE
 
+def divide(input1, input2):
+    print(input1 / input2)
 
 def main():
     print("Enter the operation you want to perform: ")
