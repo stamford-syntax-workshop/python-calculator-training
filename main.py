@@ -1,5 +1,24 @@
 # Add your functions here!
 
+# tawan
+def add(input1, input2):
+    return input1 + input2
+
+# pumin
+def subtract(input1, input2):
+    return input1 - input2
+
+# bas
+def multiply(input1, input2):
+    return input1 * input2
+
+# naris
+def divide(input1, input2):
+    return input1 / input2
+
+# ana
+def modulo(input1, input2):
+    return input1 % input2
 
 def main():
     print("Enter the operation you want to perform: ")
