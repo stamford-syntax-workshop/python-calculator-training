@@ -1,8 +1,21 @@
 # Add your functions here!
-# MR.BANANA IS HERE
+def multiply(input1, input2):
+    print(input1 * input2)
+
+def subtract(input1, input2):
+    print(input1 - input2) 
+
+def add(num1, num2):
+    print(num1 + num2)
 
 def divide(input1, input2):
     print(input1 / input2)
+
+def modulo(input1, input2):
+    print(input1, input2) //BANANA love Monkey
+	# MR.BANANA IS HERE
+
+
 
 def main():
     print("Enter the operation you want to perform: ")
