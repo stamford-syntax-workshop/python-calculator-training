@@ -12,7 +12,7 @@ def divide(input1, input2):
     print(input1 / input2)
 
 def modulo(input1, input2):
-    print(input1, input2) //BANANA love Monkey
+    print(input1, input2) ##BANANA love Monkey
 	# MR.BANANA IS HERE
 
 
